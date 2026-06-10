@@ -7,10 +7,10 @@ class Profile extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('นาย ณัฐพล บุญนะรา'),
+        title: const Text('รหัสนักศึกษา 6712732105'),
       ),
       body: const Center(
-        child: Text('รหัสนักศึกษา 6712732105'),
+        child: Text('นาย ณัฐพล บุญนะรา'),
       ),
     );
   }
